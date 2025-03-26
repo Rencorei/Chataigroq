@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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") #Reemplazar por tu API Key
+client = Groq(api_key="api_key") #Reemplazar por tu API Key
 conversacion=[
         {
             "role": "system",
